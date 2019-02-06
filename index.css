@@ -1,0 +1,11 @@
+body{background-color: grey;
+	border-style: solid;
+		border-color: white;
+		border-width: 1px;
+		align-content: center;
+
+	}
+	.border{border-style: solid;
+		border-color: white;
+		border-width: 1px;
+		}

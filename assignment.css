@@ -1,0 +1,12 @@
+body{background-color: grey;
+	font-family: sans-serif;
+}
+
+div{width: 500px;
+margin:auto;}
+
+blockquote 
+{border: solid 1px white;
+text-align: center;
+margin-left: 0px;
+}
